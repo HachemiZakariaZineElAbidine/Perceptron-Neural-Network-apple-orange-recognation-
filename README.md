@@ -14,6 +14,7 @@ Perceptron Neural Network (apple orange recognation)
 ## Tools used:
 * Vs Code (text editor)
 * Python (logic)
+* scikit-learn (modules)
 
 
 ## Team:
